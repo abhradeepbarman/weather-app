@@ -262,6 +262,7 @@ h1 {
 @media (max-width: 500px) {
     .parameter-container {
         flex-wrap: wrap;
+        margin-bottom: 20px;
     }
     .parameter {
         margin: 5px 0;
